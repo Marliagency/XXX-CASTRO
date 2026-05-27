@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "APP2Habitos (QYRO)",
+      "runtimeExecutable": "npm",
+      "runtimeArgs": ["run", "dev"],
+      "cwd": "APP2Habitos-main",
+      "port": 5173
+    }
+  ]
+}
